@@ -1,2 +1,2 @@
-# Laboratorio-II
-Corso di laboratorio II dell'università di Pisa
+# Contenuto
+Corsi del secondo anno della triennale di Informatica dell'università di Pisa
