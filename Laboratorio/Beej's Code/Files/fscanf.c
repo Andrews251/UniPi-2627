@@ -21,7 +21,6 @@ int main(int argc, char *argv[]) {
 
     fclose(f);
 
-    s
     //si potrebbe anche utilizzare %ms ed evitare il buffer (da notare che però %ms è solo standard POSIX)
     printf("\n|--- STAMPA USANDO \"%%ms\" ---|\n\n"); //nota come hai scritto \"%%ms\" %% è un escape per pritnf
     char *s;
